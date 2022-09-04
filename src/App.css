@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding:0;
+  line-height: 2;
+}
+
+main {
+  text-align: center;
+  min-height: 100vh
+}
+
+body{
+  background-color:#222;
+  color:#777;
+}
+
+.card{
+  background-color:#555;
+  margin:10px;
+  padding:15px;
+}
+
+.link{
+  text-decoration:none;
+  color:#777;
+}
